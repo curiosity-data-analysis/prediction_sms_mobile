@@ -1,5 +1,7 @@
 # Prediction of SMS SPAMs for Mobile Devices
 
+<div style="text-align:center"><img src ="https://github.com/curiosity-data-analysis/curiosity-data-analysis.github.io/blob/master/images/arte-final-sem-fundo.png" width="200" height="200"  /></div>
+
 The use of SMS is very recurrent to send small messages, however with the increase of the use of mobile devices has made it increase the sending of SPAM messages, which hinders the usability of the device. From this problem, use solution would predict from the characteristics of the text if the message is SPAM.
 
 The following research question was created:
